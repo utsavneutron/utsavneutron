@@ -11,7 +11,7 @@
 **I'm a full stack developer with an interest in Web Development, Machine Learning, AI as well as the digital experience.**
 
 - 🎨 PR and Marketing Director at **[UTA Volunteers](https://www.instagram.com/uta.volunteers/)**
-- 🎶 Working on **MAV Astra**, A Super-App that incorporates everything University of Texas at Arlington offers to Students
+- 🎶 Working on **RecaFilm**, A movie Recommendation web app that recommends movie based on the user's preference using Machine Learning
 - ⚙️ Frequently use: `.js`, `.c`, `.html`, `.css`, `.py`, `.txt`, `.cpp`, `.psd`, `.ai`, `.jpg`
 - 🌱 Learning all about JavaScript, Python and React Native [through projects](https://github.com/utsavneutron?tab=repositories)
 - 👯 I’m looking to collaborate for doing projects in Hackathons [email me](utsav.shrestha@mavs.uta.edu)
