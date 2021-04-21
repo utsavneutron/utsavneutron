@@ -45,7 +45,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavneutron" />
+  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavneutron&langs_count=8" />
 
 </details>
 <br/>
