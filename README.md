@@ -52,7 +52,7 @@
 <br/>
 
 <details>
-  <summary>:clock: My Wakatime</summary>
+  <summary>:watch: My Wakatime</summary>
   <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=utsavneutron" />
 
 </details>
