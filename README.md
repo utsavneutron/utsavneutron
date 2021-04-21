@@ -35,7 +35,7 @@
 <br/>
 <br/>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:bar_chart: GitHub Stats</summary>
 
   <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=utsavneutron&show_icons=true&hide_border=true" />
 
