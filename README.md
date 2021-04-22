@@ -45,7 +45,7 @@
 
 <details>
   <summary>📝 Most Used Languages</summary>
-  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavneutron&langs_count=8" />
+  <img alt="My Top Languages" src="https://wakatime.com/share/@utsavneutron/d8c77482-4341-4e61-a8a8-ab1d0404e7d7.svg" />
 
 </details>
 <br/>
