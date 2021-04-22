@@ -53,7 +53,7 @@
 
 <details>
   <summary>:watch: My Wakatime</summary>
-  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=utsavneutron" />
+  <img alt="My Top Languages" src="https://wakatime.com/share/@utsavneutron/45548bf1-468b-4366-a960-1f95ce4c320b.svg" />
 
 </details>
 <br/>
