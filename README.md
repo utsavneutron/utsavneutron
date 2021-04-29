@@ -63,7 +63,7 @@
 **Notable Repos**
 
 - **[Recafilm](https://github.com/utsavneutron/recafilm)**</br>
- Recafilm is a movie recommendation program that utilizes user data to match and recommend the user with movies and films that it thinks the user will enjoy.  The program uses a login system with personalized user accounts, as well as an API for its movie database.  </br></br>
+ Recafilm is a movie recommendation program that utilizes user data to match and recommend the user with movies and films that it thinks the user will enjoy.  The program uses a login system with personalized user accounts, as well as an API for its movie database.  </br>
 [Visit Recafilm](https://recafilm.herokuapp.com/).
 
 
