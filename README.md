@@ -10,6 +10,7 @@
 
 **I'm a full stack developer with an interest in Web Development, Machine Learning, AI as well as the digital experience.**
 
+- 🔭 Web Developer at **[RAID LABS](https://rfid.uta.edu/)**
 - 🎨 PR and Marketing Director at **[UTA Volunteers](https://www.instagram.com/uta.volunteers/)**
 - 🎶 Working on **RecaFilm**, A movie Recommendation web app that recommends movie based on the user's preference using Machine Learning
 - ⚙️ Frequently use: `.js`, `.c`, `.html`, `.css`, `.py`, `.txt`, `.cpp`, `.psd`, `.ai`, `.jpg`
