@@ -1,7 +1,7 @@
 # Namaste, I'm Utsav Shrestha 👋😄
 
 <div>
-<a href="https://1drv.ms/b/s!Ap4RYyRFVUKvgZte-d4qCSeiGqgnSQ?e=N2F0pU" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/resume.svg" width="24px" height="24px" align="left"></a>
+<a href="https://drive.google.com/file/d/16Qr7D12cVFKZL-p0EpwDgdguNIyNknqz/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/resume.svg" width="24px" height="24px" align="left"></a>
 <a href="https://github.com/utsavneutron" target="_blank" rel="noopener noreferrer"><img src="https://yt3.ggpht.com/-3BKTe8YFlbA/AAAAAAAAAAI/AAAAAAAAAAA/ad0jqQ4IkGE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" width="24px" height="24px" align="left"></a>
 <a href="https://twitter.com/utsavgenius" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/twitter.svg" width="24px" height="24px" align="left"></a>
 <a href="https://www.linkedin.com/in/utsavneutron" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/linkedin.svg" width="24px" height="24px" align="left"></a>
