@@ -1,5 +1,6 @@
 # Namaste, I'm Utsav Shrestha 👋😄
-
+<div>
+[![wakatime](https://wakatime.com/badge/user/4d3c3b48-0afa-4908-a76e-1defcf548e10.svg)](https://wakatime.com/@4d3c3b48-0afa-4908-a76e-1defcf548e10)
 <div>
 <a href="https://drive.google.com/file/d/16Qr7D12cVFKZL-p0EpwDgdguNIyNknqz/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://anthonyteo.com/images/resume.svg" width="24px" height="24px" align="left"></a>
 <a href="https://github.com/utsavneutron" target="_blank" rel="noopener noreferrer"><img src="https://yt3.ggpht.com/-3BKTe8YFlbA/AAAAAAAAAAI/AAAAAAAAAAA/ad0jqQ4IkGE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" width="24px" height="24px" align="left"></a>
